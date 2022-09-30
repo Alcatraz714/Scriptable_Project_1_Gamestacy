@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a191112bedaa8144815740bd5958410, type: 3}
+  m_Name: Sphere_Details
+  m_EditorClassIdentifier: 
+  SphereDetailsList:
+  - SphereTexture: {fileID: 2800000, guid: d9c94e286ddb5fa40a677b3f9417bf60, type: 3}
+    SphereColor: {r: 1, g: 0, b: 0, a: 0.5882353}
+    ScaleFactor: 1
+    RotationSpeed: 10
+    thumbnail: {fileID: 21300000, guid: f20b39e489ab054439afd4ce513c31a5, type: 3}
+  - SphereTexture: {fileID: 2800000, guid: 0235a5c1e064cd446aa7d15eefb2f58a, type: 3}
+    SphereColor: {r: 1, g: 0.89299846, b: 0, a: 0.5882353}
+    ScaleFactor: 2
+    RotationSpeed: 15
+    thumbnail: {fileID: 21300000, guid: cfc5903a5d3615341a579ecad394b1ff, type: 3}
+  - SphereTexture: {fileID: 2800000, guid: 0c8ab427575d1604a8de01173135bb1e, type: 3}
+    SphereColor: {r: 0.027182579, g: 1, b: 0, a: 0.5882353}
+    ScaleFactor: 2
+    RotationSpeed: 15
+    thumbnail: {fileID: 21300000, guid: 06608f691c1f6df4bbb2de09cf2566eb, type: 3}
+  - SphereTexture: {fileID: 2800000, guid: 0c9439d959bb0354084d96a36f01d583, type: 3}
+    SphereColor: {r: 1, g: 0, b: 0.9208169, a: 0.5882353}
+    ScaleFactor: 1.5
+    RotationSpeed: 20
+    thumbnail: {fileID: 21300000, guid: a7fa10566c1a6d145a991b46b4a29b93, type: 3}
+  - SphereTexture: {fileID: 2800000, guid: 607180f4861a9134fb55f005afee73c5, type: 3}
+    SphereColor: {r: 0.24458313, g: 0, b: 1, a: 0.5882353}
+    ScaleFactor: 4
+    RotationSpeed: 5
+    thumbnail: {fileID: 21300000, guid: 5f0392a5ddae22443bf74c74c9b553d1, type: 3}
+  - SphereTexture: {fileID: 2800000, guid: ec845dd0b6f56484e802031286abd8f5, type: 3}
+    SphereColor: {r: 0, g: 0.8105302, b: 1, a: 0.5882353}
+    ScaleFactor: 3
+    RotationSpeed: 20
+    thumbnail: {fileID: 21300000, guid: eac1cf3a9e3c56145a70e1e8a7fd21cd, type: 3}
+  - SphereTexture: {fileID: 2800000, guid: dd506fa65a0cf30449377ba77f291de6, type: 3}
+    SphereColor: {r: 0, g: 1, b: 0.45909834, a: 0.5882353}
+    ScaleFactor: 2.5
+    RotationSpeed: 10
+    thumbnail: {fileID: 21300000, guid: 4caf47f3b9e18d54f949f34a87f0803d, type: 3}
+  - SphereTexture: {fileID: 2800000, guid: fbe89d2b371848049978d39cc3e87c8c, type: 3}
+    SphereColor: {r: 0.72961164, g: 1, b: 0, a: 0.5882353}
+    ScaleFactor: 2.5
+    RotationSpeed: 15
+    thumbnail: {fileID: 21300000, guid: cdfb248d4ab7dca458af00498e3513b2, type: 3}
