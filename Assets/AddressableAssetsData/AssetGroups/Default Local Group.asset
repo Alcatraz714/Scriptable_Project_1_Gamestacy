@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 3aacfb29f485ca84cb11c827e7eb6ee8
+  m_SerializeEntries:
+  - m_GUID: 0c8ab427575d1604a8de01173135bb1e
+    m_Address: Assets/Texttures/Planet_Textures/2k_earth_daymap.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Textures
+  - m_GUID: 607180f4861a9134fb55f005afee73c5
+    m_Address: Assets/Texttures/Planet_Textures/2k_jupiter.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Textures
+  - m_GUID: d9c94e286ddb5fa40a677b3f9417bf60
+    m_Address: Assets/Texttures/Planet_Textures/2k_mercury.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Textures
+  - m_GUID: 0235a5c1e064cd446aa7d15eefb2f58a
+    m_Address: Assets/Texttures/Planet_Textures/2k_venus_surface.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Textures
+  - m_GUID: 0c9439d959bb0354084d96a36f01d583
+    m_Address: Assets/Texttures/Planet_Textures/2k_mars.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Textures
+  - m_GUID: ec845dd0b6f56484e802031286abd8f5
+    m_Address: Assets/Texttures/Planet_Textures/2k_saturn.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Textures
+  - m_GUID: dd506fa65a0cf30449377ba77f291de6
+    m_Address: Assets/Texttures/Planet_Textures/2k_uranus.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Textures
+  - m_GUID: fbe89d2b371848049978d39cc3e87c8c
+    m_Address: Assets/Texttures/Planet_Textures/2k_neptune.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Textures
+  - m_GUID: 342e969606ae93c4197b8434d48b3f7d
+    m_Address: Assets/Texttures/Planet_Textures/2k_venus_atmosphere.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Textures
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 1f8d6c6f7c730734c895c3954fe86114, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0ec9b6deab90fc14187096afbfc67def, type: 2}
+    - {fileID: 11400000, guid: 88874738042b7164592951d88c14ddb3, type: 2}
